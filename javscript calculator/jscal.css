@@ -1,0 +1,36 @@
+.btn{
+    width: 100%;
+}
+.h{
+    padding-left: 33px;
+}
+#n1{
+    width:20%;
+    left: 34px;
+}
+#operators{
+    width: 20%;
+}
+#n2{
+    width: 20%;
+}
+  
+
+#result{
+    align-content: center;
+}
+.column1{
+    text-align: center;
+}
+.column{
+    text-align: center;
+}
+.h1{
+    text-align: center;
+}
+.img{
+    display: block;
+    margin: auto;
+    width: 80px;
+    height: 80px;
+}
